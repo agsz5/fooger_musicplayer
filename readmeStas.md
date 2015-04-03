@@ -1,6 +1,6 @@
 
 
-![fplayer logo](images/fooger-logo.png)Fooger MusicPlayer
+![fplayer logo](images/foogerlogo.png)#fooger MusicPlayer
 
 About
 -----
